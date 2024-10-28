@@ -21,3 +21,4 @@ function bmi() {
     id.textContent = `your BMI value is ${BMI}`
 
 }
+bmi()
